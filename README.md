@@ -216,10 +216,10 @@ NODE_ENV=development
 1. **Local MongoDB**: Ensure MongoDB is running on your machine
    ```bash
    # On Windows
-   mongod
+   mongodb
    
    # On Mac/Linux
-   sudo systemctl start mongod
+   sudo systemctl start mongodb
    ```
 
 2. **MongoDB Atlas**: Update `MONGODB_URI` in `.env` with your Atlas connection string
