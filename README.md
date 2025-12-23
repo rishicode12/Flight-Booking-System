@@ -57,7 +57,7 @@ This project is a complete end-to-end flight booking system that allows users to
    - Filter by booking date
    - Responsive card-based layout
 
-### Bonus Features 🎁
+###  Features 
 
 - ✅ **User Authentication** - Login/Register with JWT tokens
 - ✅ **Responsive UI** - Built with TailwindCSS, mobile-friendly
@@ -466,28 +466,17 @@ The system includes complete user authentication:
 
 ## 🤝 Contributing
 
-This is a technical assignment project. Contributions are welcome, but please ensure:
+This is a full-stack project. Contributions are welcome, but please ensure:
 
 1. Code follows existing patterns
 2. All features are tested
 3. README is updated
 4. Git commits are meaningful
 
-## 📄 License
-
-This project is created as a technical assignment for XTechnon.
 
 ## 👨‍💻 Author
 
 **Rishi Code**
-- GitHub: [@rishicode12](https://github.com/rishicode12)
+- GitHub ID: [ @rishicode12 ] (https://github.com/rishicode12)
 
-## 🙏 Acknowledgments
-
-- XTechnon for the technical assignment requirements
-- MongoDB for the database solution
-- React and Node.js communities for excellent documentation
-
----
-
-**Note**: This project was built as a full-stack technical assignment demonstrating proficiency in React, Node.js, MongoDB, and modern web development practices.
+**Note**: This project was built as a full-stack project demonstrating proficiency in React, Node.js, MongoDB, and modern web development practices.
